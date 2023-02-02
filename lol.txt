@@ -1,0 +1,5 @@
+Windows fatal exception: access violation
+
+Current thread 0x00003cb8 (most recent call first):
+  File "D:\projeler\arxpoof\Lib\site-packages\pydivert\windivert.py", line 198 in recv
+  File "<stdin>", line 1 in <module>
